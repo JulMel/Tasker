@@ -1,0 +1,30 @@
+.one-task {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(2, 14, 41);
+  width: 500px;
+  margin: 10px auto;
+}
+
+.one-task h4 {
+  padding-left: 30px;
+}
+
+.one-task button {
+  background-color: rgb(2, 14, 41);
+  color: rgb(173, 248, 223);
+  border: none;
+  padding-right: 30px;
+  cursor: pointer;
+}
+
+.main-button {
+  background-color: rgb(2, 14, 41);
+  color: rgb(173, 248, 223);
+  border: none;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: 30px auto;
+}
