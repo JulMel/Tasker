@@ -29,5 +29,3 @@ git clone https://github.com/JulMel/Tasker.git
 npm install
 npm start
 
-<br>
-<img width="800" alt="React1-Tasker" src="https://github.com/user-attachments/assets/42a5dd32-4a93-4a23-9074-7ed8ede6913c" />
